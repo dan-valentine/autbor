@@ -16,4 +16,4 @@ for _i in range(10000):
         streaks += 1
     print(set)
 
-print('Chance of streaks %s%%' % (streaks / 100))
+print('Chance of streaks %s%%' % (streaks / 100)
